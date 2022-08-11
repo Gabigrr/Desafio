@@ -1,0 +1,13 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    font-family: sans-serif;
+    background: url(https://img.freepik.com/vetores-premium/letras-caindo-da-lingua-inglesa-esboco-confuso-colorido-palavras-voadoras-do-alfabeto-latino-conceito-de-estudo-de-linguas-estrangeiras-fascinante-de-volta-ao-banner-da-escola-em-fundo-branco_174187-8519.jpg?w=2000);
+    background-size: 1400px;
+   
+}
+
+.titulo {
+    text-align: center;
+}
